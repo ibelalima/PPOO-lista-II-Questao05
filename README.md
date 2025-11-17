@@ -36,7 +36,5 @@ No contexto desta questão:
 
 Somente o passo 2 muda entre as classes.
 
----
 
-# 3. 📂 Estrutura do Projeto
 
